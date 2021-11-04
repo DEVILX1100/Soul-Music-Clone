@@ -1,0 +1,73 @@
+{
+  "token": "ODExMTA5NzE1NDMzNjE5NDc2.YCtayQ.Gz010l5Yd2Hq8Qbh-A8VIN8jpYM",
+  "mongo": "mongodb+srv://SpaceMusic:shivamop@cluster0.kgvij.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "prefix": "+",
+
+  "clientsettings": {
+    "nodes": [
+      {
+        "host": "astroz2.shivamgfx.repl.co",
+        "port": 443,
+        "password": "youshallnotpass",
+        "secure": true
+      },
+      {
+        "host": "astroz3.shivamgfx.repl.co",
+        "port": 443,
+        "password": "youshallnotpass",
+        "secure": true
+      },
+      {
+        "host": "disbotlistlavalink.ml",
+        "port": 443,
+        "password": "LAVA",
+        "secure": true
+      },
+      {
+        "host": "lavalink-repl.parasop.repl.co",
+        "port": 443,
+        "password": "youshallnotpass",
+        "secure": true
+      },
+      {
+        "host": "main.paras888.repl.co",
+        "port": 443,
+        "password": "youshallnotpass",
+        "secure": true
+      }
+    ]
+  },
+  "spotify": {
+    "clientSecret": "bdbfea29444c451d95c03581480e34ae",
+    "clientID": "be8b7b2b80c5464bb85bb30bb632e236"
+  },
+  "settings": {
+    "COMMENT": "time_delay 0 === insta leave",
+    "progressbar_emoji": ":<:s_progress:866946355891929098>",
+    "leaveOnEmpty_Channel": {
+      "enabled": false,
+      "time_delay": 180000
+    },
+    "LeaveOnEmpty_Queue": {
+      "enabled": false,
+      "time_delay": 180000
+    },
+    "selfDeaf": true,
+    "serverDeaf": true
+  },
+  "links": {
+    "server": "https://discord.gg/ZqCMvN2fPp",
+    "opbotinv": "https://discord.com/api/oauth2/authorize?client_id=864728433028628500&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.gg%2FEnNxHuE5Sg&response_type=code&scope=bot%20guilds.join",
+    "opmusicinv": "https://invite.astrozmusic.ml/",
+    "opmusic2inv": "https://discord.com/api/oauth2/authorize?client_id=815872470601957386&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.gg%2FEnNxHuE5Sg&response_type=code&scope=bot%20guilds.join",
+    "opmusic3inv": "https://discord.com/api/oauth2/authorize?client_id=818765584598695936&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.gg%2FEnNxHuE5Sg&response_type=code&scope=bot%20guilds.join",
+    "opmusicvote": "https://top.gg/bot/812605686583394304/vote"
+  },
+  "ownerIDS": [
+    "853184935384711178",
+    "574203871912787969",
+    "852834834909102110",
+    "479674000356671489",
+      "772342884325916694"
+  ]
+}

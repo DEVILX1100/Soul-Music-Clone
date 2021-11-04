@@ -1,0 +1,102 @@
+{
+  "msg": {
+    "COMMENT": "IF YOU DECIDE TO USE CUSTOM EMOJIS, USE THE NAME AND THE ID IN MSG, EXAMPLE: ⬜ --> <:progressbar_left_filled:818558865268408341>",
+
+    "ERROR" : "<:ah_error:885351344351870986>",
+    "SUCCESS" : "<:ah_success:885351301884559370>",
+    "ARROW": "<:ah_error:885351344351870986>",
+
+    "prem": "<:cash:888451770391625810>",
+    "ommaachuda": "<:youtube:895970936824659988>",
+
+    "disabled" : "<:ah_error:885351344351870986>",
+    "enabled" : "<:ah_success:885351301884559370>",
+
+    "loading": "<a:loading:828103133795844126>",
+    "title": "<:title:828107614785110056>",
+    "region": "🌐",
+    "varlevel": "🔒",
+    "rules": "<:rules:828107822315077632>",
+    "channels": "<:channels:828110743668916244>",
+    "afk": "<:afk:828110588076752907>",
+    "id": "<:id:828110924169871361>",
+    "crown": "<a:crown:828105562217644083>",
+    "atime": "<:time:828108246820061225>",
+    "afktimeout": "<:time:828108246820061225>",
+    "defaultnotifications": "🔔",
+    "partnered": "<a:partenered:828109331609944066>",
+    "verified": "<a:verified:828109085118955550>",
+    "calendar": "<:cal1:828106299861499937>",
+    "roles": "<:roles:828107114156261407>",
+    "users": "<:users:828107476742045776>",
+    "boost": "<a:boost:828113345877770270>",
+    "dnd": "<a:dnd:828116425012805662>",
+    "idle": "<a:idle:828116193545682974>",
+    "online": "<a:online:828116589508821012>",
+    "offline": "<a:offline:828116927297355786>",
+
+    "progress_bar": {
+      "emptybeginning": "[",
+      "emptyend": "]",
+      "leftindicator": "[",
+      "rightindicator": "]",
+
+      "emptyframe": "<:EmptyLine:896526145829351504>", 
+      "filledframe": "<:FilledLine:896526190188326964>" 
+    },
+
+    "playing": "<a:ah_playing:885351649676251186>",
+    "pruning": "<a:ah_announces:885351874411249674>",
+    "equalizer": "<:ah_voice:885351787144568882> ",
+    "cleared": "<a:ah_ping:885361798293901382>", 
+    "leave_on_empty": "<a:ah_settings:885351378166378527>", 
+    "Duration": "<a:Duration:896216064894074900>",
+    "DurationLine": "<a:DurationLine:896216686527651910>",
+    "TimeLine": "<a:DurationLine:896216686527651910>",
+    "premium": "<:s_economy:865773559581638667>", 
+    "song_by": "<:AstrozMusic:896247877242855444>",
+    "requested_by": "<:s_users:866973758543233064>", 
+    "setup": "<a:ah_settings:885351378166378527>",
+    "dj": "<:ah_voice:885351787144568882>",
+    "bot": "<:ah_robot:885351811412799488>", 
+    "search": "<:ah_search:885351845097267201>", 
+    "resume": "⏯️",
+    "pause": "⏯️", 
+    "lyrics": "📝", 
+    "disk": "<a:ah_playing:885351649676251186>", 
+    "ping": "<a:ah_ping:885361798293901382>",
+    "warn": "<a:ah_announces:885351874411249674>",
+
+    "rewind": "⏪", 
+    "forward": "⏩", 
+    "pause_resume": "⏯️", 
+    "stop": "⏹️", 
+    "previous_track": "⏮️", 
+    "skip_track": "⏭️", 
+    "replay_track": "🔁", 
+    "reduce_volume": "🔉", 
+    "raise_volume": "🔊", 
+    "toggle_mute": "🔇",
+    "repeat_mode": "🔁",
+    "repeat_mode-on": "🔂",
+    "autoplay_mode": "♾️", 
+    "shuffle": "🔀", 
+    "show_queue": "📝", 
+    "show_current_track": "▶️"
+  },
+  "categories": {
+    "AnimatedDiscord": "<a:AnimatedDiscord:896216875455881247>",
+    
+    "Settings": "<a:Settings:896238606446891028>",
+    "Cash": "<:Cash:896241270245163008>",
+    "Playlist": "<:Playlist:896015585459179570>",
+    "Filter": "<a:ah_playing:885351649676251186>",
+    "AstrozMusic": "<:AstrozMusic:896247877242855444>",
+    "Premium": "<:Cash:896241270245163008>",
+    "Playing": "<a:Playing:896216431912435732>",
+    "Info": "<:Info:896239678641037352>",
+    "Owner": "<:botdev:888424815348809779>",
+    "Arrow": "<:arrow:895998417384407050>"
+  }
+}
+
